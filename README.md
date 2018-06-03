@@ -1,3 +1,4 @@
+# iterm2 + Oh My Zsh + agnoster
 ## 安装 iterm2
 官网：https://www.iterm2.com/
 
