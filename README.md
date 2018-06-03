@@ -1,3 +1,4 @@
+[TOC]
 ## 安装 iterm2
 官网：https://www.iterm2.com/
 
