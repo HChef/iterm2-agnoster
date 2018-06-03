@@ -45,13 +45,17 @@ rm -rf fonts
 ### 特殊字体安装
 - iterm2 -> Preferences -> Profiles -> Text -> Font -> Change Font -> 12pt Meslo LG L DZ Regular for Powerline
 - iterm2 -> Preferences -> Profiles -> Text -> Font -> Use a different font for non-ASCII text -> Non-ASCII Font -> Change Font -> 12pt Meslo LG L DZ Regular for Powerline
+![text](https://github.com/piscesor/iterm2-agnoster/blob/master/image/text.png)
 
 ### 调整配色方案
 iterm2 -> Preferences -> Profiles -> Color Presets -> Solarized Dark
+![font](https://github.com/piscesor/iterm2-agnoster/blob/master/image/color.png)
 
 通过 `echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"` 可以测试安装
+![font](https://github.com/piscesor/iterm2-agnoster/blob/master/image/font.png)
 
 ## 修改主题
 通过 `vim ~/.zshrc` 设置 `ZSH_THEME="agnoster"`
+![over](https://github.com/piscesor/iterm2-agnoster/blob/master/image/over.png)
 
 > 参考：http://www.siguoya.name/pc/home/article/256 
